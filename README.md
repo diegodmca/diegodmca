@@ -4,7 +4,7 @@ Olá! eu sou Diego Carvalho
 
 👀 Atualmente buscando uma posição como desenvolvedor para IOS   
 
-🌱 Focando os estudos em desenvolvimento iOS nativo, utilizando as melhores práticas e arquiteruras  
+🌱 Focando os estudos em desenvolvimento iOS nativo, utilizando as melhores práticas e arquiteturas  
 
 Tecnologias
 -----------
