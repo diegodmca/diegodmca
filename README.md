@@ -4,7 +4,7 @@ Olá! eu sou Diego Carvalho
 
 👀 Atualmente buscando uma posição como desenvolvedor 
 
-🌱 Focando os estudos em Java para Web
+🌱 Focando os estudos em Java
 
 Tecnologias
 -----------
