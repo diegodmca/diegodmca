@@ -2,9 +2,9 @@ Olá! eu sou Diego Carvalho
 ==========================
 🧑‍🎓 Graduado em Analise e Desenvolvimento de Sistemas 
 
-👀 Atualmente buscando uma posição como desenvolvedor 
+👀 Atualmente buscando uma posição de trabalho
 
-🌱 Focando os estudos em Java
+🌱 Focando os estudos
 
 Tecnologias
 -----------
