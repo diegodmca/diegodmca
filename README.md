@@ -1,18 +1,15 @@
-Olá! eu sou Diego Carvalho
-==========================
-🧑‍🎓 Graduado em Analise e Desenvolvimento de Sistemas 
+Olá! Sou o Diego, sou entusiasta em desenvolvimento iOS nativo com Xcode. Embora eu tenha experiência como analista de dados no mercado de 
+trabalho, minha verdadeira paixão é desenvolver aplicativos para iOS. Atualmente, estou buscando migrar de carreira e me tornar um desenvolvedor em tempo integral.
+Nos últimos anos, tenho trabalhado em vários projetos pessoais e profissionais, sempre aprimorando minhas habilidades em Swift e SwiftUI. Minha experiência em análise de dados me ajudou a ter uma abordagem lógica e sistemática no desenvolvimento de aplicativos, além de uma atenção especial aos detalhes.
+
+Sou formado em Analise e Desenvolvimento de Sistemas em 2017, e estou em busca de novos desafios e oportunidades de aprendizado, e estou animado para compartilhar minhas habilidades e conhecimentos com a comunidade de desenvolvimento. Espero colaborar com outros desenvolvedores e contribuir para projetos interessantes. Sinta-se à vontade para entrar em contato.
 
 👀 Atualmente buscando uma posição de trabalho
 
-🌱 Focando os estudos
+🌱 Focando os estudos em desenvolvimento iOS
 
 Tecnologias
 -----------
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)	
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
